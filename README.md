@@ -1,7 +1,7 @@
 It is the main part of the project. You can use it as an inspiration. I am not sharing with photos and training weights because it was all trained on weak graphic card so you can do it much better.
 
 So to make use of this script you need to:
-1) Install and train yolov3 model for example by this video: https://youtu.be/Y73SWT79Rc
+1) Install and train yolov3 model for example by this video: https://youtu.be/Y73SWT79Rck
 2) Install pytesseract and also train it to read car plate font
 3) Edit detect.py to crop the car plate as I did in uploaded file
 
