@@ -6,4 +6,4 @@ So to make use of this script you need to:
 3) Edit detect.py to crop the car plate as I did in uploaded file (starts at line 289)
 
 Result:
-[![Watch the video](https://img.youtube.com/vi/i6bB8Y78A8o/maxresdefault.jpg)](https://youtu.be/i6bB8Y78A8o)
+[![Watch the video](https://img.youtube.com/vi/6z3OJYBWbFA/maxresdefault.jpg)](https://youtu.be/6z3OJYBWbFA)
